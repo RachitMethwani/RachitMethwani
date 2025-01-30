@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RachitMethwani
 - 📫 How to reach me: https://www.linkedin.com/in/rachitmethwani/
+- 🌱 I’m currently learning Machine Learning and Full Stack Development.
 - 😄 Pronouns: He/him/his
 
 <!---
